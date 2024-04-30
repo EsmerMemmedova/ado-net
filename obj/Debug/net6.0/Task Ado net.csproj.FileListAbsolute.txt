@@ -1,0 +1,23 @@
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\Task Ado net.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\Task Ado net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\Task Ado net.AssemblyInfoInputs.cache
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\Task Ado net.AssemblyInfo.cs
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\Task Ado net.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\Task Ado net.sourcelink.json
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\Task Ado net.exe
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\Task Ado net.deps.json
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\Task Ado net.runtimeconfig.json
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\Task Ado net.dll
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\Task Ado net.pdb
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\Task Ado.10694D3A.Up2Date
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\Task Ado net.dll
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\refint\Task Ado net.dll
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\Task Ado net.pdb
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\Task Ado net.genruntimeconfig.cache
+C:\Users\2022\Desktop\ConsoleAppler\Task Ado net\obj\Debug\net6.0\ref\Task Ado net.dll

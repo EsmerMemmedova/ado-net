@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67305625-70A2-40D5-8CE1-9B40FA3E4F01}|Task Ado net.csproj|c:\\users\\2022\\desktop\\consoleappler\\task ado net\\database\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67305625-70A2-40D5-8CE1-9B40FA3E4F01}|Task Ado net.csproj|solutionrelative:database\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67305625-70A2-40D5-8CE1-9B40FA3E4F01}|Task Ado net.csproj|c:\\users\\2022\\desktop\\consoleappler\\task ado net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67305625-70A2-40D5-8CE1-9B40FA3E4F01}|Task Ado net.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67305625-70A2-40D5-8CE1-9B40FA3E4F01}|Task Ado net.csproj|c:\\users\\2022\\desktop\\consoleappler\\task ado net\\models\\employe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67305625-70A2-40D5-8CE1-9B40FA3E4F01}|Task Ado net.csproj|solutionrelative:models\\employe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67305625-70A2-40D5-8CE1-9B40FA3E4F01}|Task Ado net.csproj|c:\\users\\2022\\desktop\\consoleappler\\task ado net\\services\\employeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67305625-70A2-40D5-8CE1-9B40FA3E4F01}|Task Ado net.csproj|solutionrelative:services\\employeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67305625-70A2-40D5-8CE1-9B40FA3E4F01}|Task Ado net.csproj|c:\\users\\2022\\desktop\\consoleappler\\task ado net\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67305625-70A2-40D5-8CE1-9B40FA3E4F01}|Task Ado net.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\GlobalUsing.cs",
+              "RelativeToolTip": "GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:56:34.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeServices.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\Services\\EmployeServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeServices.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\Services\\EmployeServices.cs",
+              "RelativeToolTip": "Services\\EmployeServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:03:49.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employe1.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\Models\\Employe1.cs",
+              "RelativeDocumentMoniker": "Models\\Employe1.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\Models\\Employe1.cs",
+              "RelativeToolTip": "Models\\Employe1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:50:44.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:48:09.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\DataBASE\\AddDbContext.cs",
+              "RelativeDocumentMoniker": "DataBASE\\AddDbContext.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\ConsoleAppler\\Task Ado net\\DataBASE\\AddDbContext.cs",
+              "RelativeToolTip": "DataBASE\\AddDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:53:26.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
